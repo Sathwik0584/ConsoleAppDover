@@ -12,7 +12,9 @@ namespace ConsoleDoverApp
 
         public void add()
         {
+            Console.WriteLine("Hello ");
 
+            Console.WriteLine("Hello World");
         }
     }
 }
