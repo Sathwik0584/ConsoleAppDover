@@ -9,5 +9,10 @@ namespace ConsoleDoverApp
     internal class Test
     {
         //Test File
+
+        public void add()
+        {
+
+        }
     }
 }
